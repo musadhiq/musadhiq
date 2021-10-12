@@ -2,7 +2,7 @@
 <h4 align="center">A passionate frontend developer from India </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=musadhiq&theme=onedark&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=musadhiq&theme=onedark&title=Followers,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
