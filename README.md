@@ -1,7 +1,8 @@
 <h2 align="center">Hi, I'm musadhiq mp</h1>
 <h4 align="center">A passionate frontend developer from India </p>
 
-https://github-profile-trophy.vercel.app/?username=musadhiq&title=Followers
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=musadhiq&theme=onedark&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
