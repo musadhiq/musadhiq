@@ -11,14 +11,14 @@
 
 
 
-- 👨 ‍💻 All of my projects are available at [musadhiq.ml](musadhiq.ml)
+- 👨 ‍💻 All of my projects are available at [Click to visit my portfolio](musadhiq.ml)
 
 
 - 💬 Ask me about ** web Development**
 
 - 📫 How to reach me ** musadhiqmp@gmail.com**
 
-- 📄 Know about my experiences [https://www.musadhiq.ml/Res.pdf](https://www.musadhiq.ml/Res.pdf)
+- 📄 Know about my experiences [download Resume](https://www.musadhiq.ml/Res.pdf)
 
 
 <p  align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musadhiq&show_icons=true&locale=en&layout=compact" alt="" musadhiq""/></p>
