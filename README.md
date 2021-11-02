@@ -21,8 +21,8 @@
 - 📄 Know about my experiences [https://www.musadhiq.ml/Res.pdf](https://www.musadhiq.ml/Res.pdf)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= musadhiq&show_icons=true&locale=en&layout=compact" alt="" musadhiq""/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musadhiq&show_icons=true&locale=en&layout=compact" alt="" musadhiq""/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= musadhiq&show_icons=true&locale=en"alt="" musadhiq""/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musadhiq&show_icons=true&locale=en"alt=""musadhiq""/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user= musadhiq&" alt="" musadhiq""/></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musadhiq&" alt=""musadhiq""/></p
