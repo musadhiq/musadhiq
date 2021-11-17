@@ -11,7 +11,7 @@
 
 
 
-- 👨 ‍💻 All of my projects are available at [Click to visit my portfolio](musadhiq.ml)
+- 👨 ‍💻 All of my projects are available at [Click to visit my portfolio](https://www.musadhiq.ml/)
 
 
 - 💬 Ask me about ** web Development**
